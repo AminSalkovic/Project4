@@ -1,0 +1,16 @@
+.dropdown{
+    width: 350px;
+    height: 200px;
+    box-shadow: 
+    inset 0 0 20px whitesmoke,
+    inset 10px 0 10px #f0f,
+    inset -10px 0 10px #0ff,
+    inset 10px 0 10px #f0f,
+    inset -10px 0 10px #0ff,
+    0 0 10px #fff,
+    -10px 0 20px #f0f,
+    10px 0 20px #0ff;
+}
+.dropdown p{
+    color: #fff;
+}

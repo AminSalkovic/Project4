@@ -1,38 +1,36 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+:root{
+  --blue:#cfd6dd;
+  --text:rgb(211, 197, 197);
+  --background:#161515;
+  --social:#b8a8a8;
+  --socialafter:#696363;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.container{
+  width: 100%;
+  height: 100%;
+  background-color: var(--background);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+h3,h4,h5{
+  font-size: 16px;
+  color: #5e5a5a;
+  font-family: 'Alex Brush', cursive;
 }
-
-.App-link {
-  color: #61dafb;
+h3{
+  margin-left: 20px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.tag{
+  font-size: 11px;
+}
+h4{
+  margin-left: 40px;
+}
+h5{
+  margin-left: 60px;
 }

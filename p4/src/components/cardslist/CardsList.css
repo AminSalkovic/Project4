@@ -1,0 +1,9 @@
+.cards-list{
+    width: 100%;
+    min-height: 140vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    position: relative;
+    justify-content:space-evenly;
+}

@@ -17,6 +17,7 @@ function App() {
         >
           Learn Reacttt
         </a>
+        <h1>amins</h1>
       </header>
     </div>
   );

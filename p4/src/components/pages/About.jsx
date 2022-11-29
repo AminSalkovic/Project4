@@ -48,9 +48,9 @@ const About = () => {
             <h5><MdIcons.MdArrowBackIosNew className='tag'/> p <MdIcons.MdOutlineArrowForwardIos className='tag'/></h5> 
             <h5><MdIcons.MdArrowBackIosNew className='tag'/> /h3 <MdIcons.MdOutlineArrowForwardIos className='tag'/></h5> 
                     <p >I mastered the frontend techniques and <br />
-                        technologies .I have more than 10   <br />
-                      websites and application behind me. <br />
-                      So I have experience in frontend.
+                        technologies .I have a lot of   <br />
+                        websites and application behind me. <br />
+                        So I have experience in frontend.
                     </p>
             <h5><MdIcons.MdArrowBackIosNew className='tag'/> p <MdIcons.MdOutlineArrowForwardIos className='tag'/></h5> 
        </div>
